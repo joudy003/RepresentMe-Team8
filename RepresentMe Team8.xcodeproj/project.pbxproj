@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B494399C2CA97904003B16B1 /* Untitled.swift in Sources */ = {isa = PBXBuildFile; fileRef = B494399B2CA97900003B16B1 /* Untitled.swift */; };
+		AABA9A552CA97B4B008B7C00 /* Albatoul.swift in Sources */ = {isa = PBXBuildFile; fileRef = AABA9A542CA97B4B008B7C00 /* Albatoul.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		29A6276A2CA975B900578275 /* RepresentMe Team8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "RepresentMe Team8.app"; path = "/Users/aljoharahbint2002/Documents/RepresentMe-Team8/build/Debug-iphoneos/RepresentMe Team8.app"; sourceTree = "<absolute>"; };
-		B494399B2CA97900003B16B1 /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
+		AABA9A462CA97ACB008B7C00 /* RepresentMe Team8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RepresentMe Team8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AABA9A542CA97B4B008B7C00 /* Albatoul.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Albatoul.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -38,7 +38,8 @@
 			isa = PBXGroup;
 			children = (
 				29A6276C2CA975B900578275 /* RepresentMe Team8 */,
-				B494399B2CA97900003B16B1 /* Untitled.swift */,
+				AABA9A462CA97ACB008B7C00 /* RepresentMe Team8.app */,
+				AABA9A542CA97B4B008B7C00 /* Albatoul.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,7 +65,7 @@
 			packageProductDependencies = (
 			);
 			productName = "RepresentMe Team8";
-			productReference = 29A6276A2CA975B900578275 /* RepresentMe Team8.app */;
+			productReference = AABA9A462CA97ACB008B7C00 /* RepresentMe Team8.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -116,7 +117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B494399C2CA97904003B16B1 /* Untitled.swift in Sources */,
+				AABA9A552CA97B4B008B7C00 /* Albatoul.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
